@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Internet Relay Chat (IRC) is a protocol for live interactive Internet text messaging (chat) or synchronous conferencing. It is mainly designed for group communication in discussion forums, called channels, but also allows one-to-one communication via private messages.</source>
-        <translation>互联网中继聊天（IRC）是一种现场互动的互联网短信（聊天）或同步会议的协议。它主要设计用于组通信的论坛，称为通道，而且还允许通过私信一到一个通信</translation>
+        <translation>互联网中继聊天（IRC）是一种现场互动的互联网短信（聊天）或同步会议的协议。它主要为论坛的群组通信而设计，论坛被称作频道，但还允许通过私信进行一对一通信。</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>联系</translation>
+        <translation>联系方式</translation>
     </message>
     <message>
         <source>Developers</source>
