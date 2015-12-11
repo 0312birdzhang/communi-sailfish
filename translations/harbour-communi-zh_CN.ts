@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Internet Relay Chat (IRC) is a protocol for live interactive Internet text messaging (chat) or synchronous conferencing. It is mainly designed for group communication in discussion forums, called channels, but also allows one-to-one communication via private messages.</source>
-        <translation>互联网中继聊天（IRC）是一种协议，现场互动的互联网短信（聊天）或同步会议。它主要设计用于组通信的论坛，称为通道，而且还允许通过私信一到一个通信</translation>
+        <translation>互联网中继聊天（IRC）是一种现场互动的互联网短信（聊天）或同步会议的协议。它主要为论坛的群组通信而设计，论坛被称作频道，但还允许通过私信进行一对一通信。</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>联系</translation>
+        <translation>联系方式</translation>
     </message>
     <message>
         <source>Developers</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Artwork</source>
-        <translation>艺术品</translation>
+        <translation>美工</translation>
     </message>
 </context>
 <context>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>Part</source>
-        <translation>部分</translation>
+        <translation>离开</translation>
     </message>
     <message>
         <source>Join</source>
@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Open a query</source>
-        <translation>打开查询</translation>
+        <translation>打开密聊</translation>
     </message>
     <message>
         <source>Connect a network</source>
@@ -136,11 +136,11 @@
     </message>
     <message>
         <source>Real name</source>
-        <translation>真名</translation>
+        <translation>真实名称</translation>
     </message>
     <message>
         <source>Enter real name</source>
-        <translation>输入真名</translation>
+        <translation>输入真实名称</translation>
     </message>
     <message>
         <source>Server address</source>
@@ -164,11 +164,11 @@
     </message>
     <message>
         <source>Network name</source>
-        <translation>网络名</translation>
+        <translation>网络名称</translation>
     </message>
     <message>
         <source>Enter network name</source>
-        <translation>输入网络名</translation>
+        <translation>输入网络名称</translation>
     </message>
     <message>
         <source>Port</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>SSL provides a secure, encrypted connection with the server</source>
-        <translation>SSL提供一个安全、加密的连接到服务器</translation>
+        <translation>SSL提供一个与服务器之间安全、加密的连接</translation>
     </message>
     <message>
         <source>Use SSL</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Perform commands</source>
-        <translation>执行命令</translation>
+        <translation>执行的命令</translation>
     </message>
     <message>
         <source>Commands to perform on connect</source>
@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>SASL provides a secure, encrypted authentication with the server</source>
-        <translation>SASL提供一个安全、加密的连接到服务器</translation>
+        <translation>SASL提供一个与服务器之间安全、加密的认证</translation>
     </message>
     <message>
         <source>Use SASL</source>
@@ -283,7 +283,7 @@
     <message>
         <source>Unread
 highlights</source>
-        <translation>未读提醒</translation>
+        <translation>个未读提醒</translation>
     </message>
     <message>
         <source>Latest activity:</source>
@@ -375,7 +375,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 invited to %3</source>
-        <translation>%1 邀请到 %3</translation>
+        <translation>%1 受邀到 %3</translation>
     </message>
     <message>
         <source>%1 rejoined %2</source>
@@ -387,23 +387,23 @@ highlights</source>
     </message>
     <message>
         <source>%1 kicked %2 (%3)</source>
-        <translation>%1 踢掉了 %2 (%3)</translation>
+        <translation>%1 已踢走 %2 (%3)</translation>
     </message>
     <message>
         <source>%1 kicked %2</source>
-        <translation>%1 踢掉了 %2</translation>
+        <translation>%1 已踢走 %2</translation>
     </message>
     <message>
         <source>%1 mode is %2 %3</source>
-        <translation>%1 模式 is %2 %3</translation>
+        <translation>%1 模式是 %2 %3</translation>
     </message>
     <message>
         <source>%1 sets mode %2 %3</source>
-        <translation>%1 设置模式 %2 %3</translation>
+        <translation>%1 设置模式为 %2 %3</translation>
     </message>
     <message>
         <source>%1 has %2 users</source>
-        <translation>%1 有 %2 用户</translation>
+        <translation>%1 有 %2 位用户</translation>
     </message>
     <message>
         <source>%1 has %3 users: %2</source>
@@ -419,7 +419,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 replied CTCP %2: %3</source>
-        <translation>%1 回复 CTCP %2: %3</translation>
+        <translation>%1 响应 CTCP %2: %3</translation>
     </message>
     <message>
         <source>%1[%2] %3</source>
@@ -431,7 +431,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 is away (%2)</source>
-        <translation>%1 离开 (%2)</translation>
+        <translation>%1 的状态为离开 (%2)</translation>
     </message>
     <message>
         <source>%1 is %2@%3 (%4)</source>
@@ -439,7 +439,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 connected via %2 (%3)</source>
-        <translation>%1 通过 %2 (%3) 连接</translation>
+        <translation>%1 已通过 %2 (%3) 连接</translation>
     </message>
     <message>
         <source>%1 %3 %2</source>
@@ -451,7 +451,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 has been online since %2 (idle for %3)</source>
-        <translation>%1 从 %2  已在线 (空闲 %3)</translation>
+        <translation>%1 自 %2 开始在线 (已空闲 %3)</translation>
     </message>
     <message>
         <source>%1 is on channels %2</source>
@@ -459,15 +459,15 @@ highlights</source>
     </message>
     <message>
         <source>%1 url is %2</source>
-        <translation>%1 链接是 %2</translation>
+        <translation>%1 的链接是 %2</translation>
     </message>
     <message>
         <source>%1 was created %2</source>
-        <translation>%1 被创建 %2</translation>
+        <translation>%1 已被 %2 创建</translation>
     </message>
     <message>
         <source>%1 topic was set %2 by %3</source>
-        <translation>%1 话题已被 %3 设置 %2 </translation>
+        <translation>%1 的话题已被 %3 设置为 %2 </translation>
     </message>
     <message>
         <source>inviting %1 to %2</source>
@@ -475,23 +475,23 @@ highlights</source>
     </message>
     <message>
         <source>%1 version is %2</source>
-        <translation>%1 版本是 %2</translation>
+        <translation>%1 的版本是 %2</translation>
     </message>
     <message>
         <source>%1 time is %2</source>
-        <translation>%1 时间是 %2</translation>
+        <translation>%1 的时间是 %2</translation>
     </message>
     <message>
         <source>%1 parted %2 (%3)</source>
-        <translation>%1 分开 %2 (%3)</translation>
+        <translation>%1 已离开 %2 (%3)</translation>
     </message>
     <message>
         <source>%1 parted %2</source>
-        <translation>%1 分开 %2</translation>
+        <translation>%1 已离开 %2</translation>
     </message>
     <message>
         <source>%1 requested CTCP %2</source>
-        <translation>%1 请求 CTCP %2</translation>
+        <translation>%1 请求对 %2 CTCP</translation>
     </message>
     <message>
         <source>%1%2: %3</source>
@@ -499,19 +499,19 @@ highlights</source>
     </message>
     <message>
         <source>%1 has quit (%2)</source>
-        <translation>%1 退出 (%2)</translation>
+        <translation>%1 已退出 (%2)</translation>
     </message>
     <message>
         <source>%1 has timed out</source>
-        <translation>%1 超时</translation>
+        <translation>%1 已超时</translation>
     </message>
     <message>
         <source>%1 has disconnected</source>
-        <translation>%1 断开连接</translation>
+        <translation>%1 已断开连接</translation>
     </message>
     <message>
         <source>%1 has lost connection</source>
-        <translation>%1 失去连接</translation>
+        <translation>%1 已失去连接</translation>
     </message>
     <message>
         <source>%1 has quit</source>
@@ -519,15 +519,15 @@ highlights</source>
     </message>
     <message>
         <source>%1 has no topic set</source>
-        <translation>%1 没有话题设置</translation>
+        <translation>%1 未设置话题</translation>
     </message>
     <message>
         <source>%1 topic is &quot;%2&quot;</source>
-        <translation>%1 话题是 &quot;%2&quot;</translation>
+        <translation>%1 的话题是 &quot;%2&quot;</translation>
     </message>
     <message>
         <source>%1 sets topic &quot;%2&quot; on %3</source>
-        <translation>%1  在 %3 设置话题 &quot;%2&quot;</translation>
+        <translation>%1 在 %3 设置话题为 &quot;%2&quot;</translation>
     </message>
     <message>
         <source>%1 %2 %3</source>
@@ -535,7 +535,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 replied in %2s</source>
-        <translation>%1 在 %2秒回复</translation>
+        <translation>%1 回复于 %2 秒前</translation>
     </message>
     <message>
         <source>%1 days</source>
@@ -682,7 +682,7 @@ highlights</source>
     </message>
     <message>
         <source>Removing</source>
-        <translation>删除中</translation>
+        <translation>即将移除</translation>
     </message>
     <message>
         <source>Disconnect</source>
@@ -698,7 +698,7 @@ highlights</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
@@ -838,11 +838,11 @@ highlights</source>
     </message>
     <message>
         <source>Hi, %1</source>
-        <translation>你好, %1</translation>
+        <translation>%1你好</translation>
     </message>
     <message>
         <source>Not connected</source>
-        <translation>未连接到</translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <source>Warning: sending %1 lines</source>
@@ -857,7 +857,7 @@ highlights</source>
     <name>UserListPanel</name>
     <message>
         <source>Query</source>
-        <translation>查询</translation>
+        <translation>密聊</translation>
     </message>
     <message>
         <source>Deop</source>
@@ -877,11 +877,11 @@ highlights</source>
     </message>
     <message>
         <source>Kick</source>
-        <translation>踢掉</translation>
+        <translation>踢走</translation>
     </message>
     <message>
         <source>Ban</source>
-        <translation>禁用</translation>
+        <translation>封禁</translation>
     </message>
 </context>
 <context>
@@ -908,11 +908,11 @@ highlights</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation>删除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Removing</source>
-        <translation>删除中</translation>
+        <translation>即将移除</translation>
     </message>
     <message>
         <source>About IRC</source>
@@ -931,15 +931,15 @@ highlights</source>
     <name>main</name>
     <message>
         <source>IRC: highlight on %1</source>
-        <translation>IRC: 提醒 %1</translation>
+        <translation>IRC: %1 的提醒</translation>
     </message>
     <message>
         <source>%1 on %2:</source>
-        <translation>%1 在 %2</translation>
+        <translation>%1 在 %2:</translation>
     </message>
     <message>
         <source>IRC: message from %1</source>
-        <translation>IRC: 信息来自 %1</translation>
+        <translation>IRC: 消息来自 %1</translation>
     </message>
     <message>
         <source>%1 in private:</source>
@@ -978,7 +978,7 @@ highlights</source>
     </message>
     <message>
         <source>By activity</source>
-        <translation>根据活跃度</translation>
+        <translation>按活跃度</translation>
     </message>
     <message>
         <source>Show events</source>
@@ -986,7 +986,7 @@ highlights</source>
     </message>
     <message>
         <source>Specifies whether joins/parts/quits are shown when the amount of user on the channel is less than:</source>
-        <translation>指定是否显示 加入/零件/退出，当用户在频道上数量小于:</translation>
+        <translation>指定是否显示加入、离开或退出等事件，设置生效于频道中用户数量小于:</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -1002,7 +1002,7 @@ highlights</source>
     </message>
     <message>
         <source>Size:</source>
-        <translation>大小:</translation>
+        <translation>尺寸:</translation>
     </message>
     <message>
         <source>Tiny</source>
@@ -1026,7 +1026,7 @@ highlights</source>
     </message>
     <message>
         <source>Specifies whether a monospaced font is used for messages</source>
-        <translation>指定等宽字体是否用于消息</translation>
+        <translation>消息以等宽字体显示</translation>
     </message>
     <message>
         <source>Notifications</source>
@@ -1038,15 +1038,15 @@ highlights</source>
     </message>
     <message>
         <source>Specifies whether notification sounds are used for highlighted messages</source>
-        <translation>指定通知声音是否用于高亮显示的消息</translation>
+        <translation>指定有高亮显示的消息时是否使用通知声音</translation>
     </message>
     <message>
         <source>Use haptic feedback</source>
-        <translation>使用触控反馈</translation>
+        <translation>使用触觉反馈</translation>
     </message>
     <message>
         <source>Specifies whether haptic feedback is used for highlighted messages</source>
-        <translation>指定触觉反馈是否用于高亮显示的消息</translation>
+        <translation>指定有高亮显示的消息时是否使用触觉反馈</translation>
     </message>
 </context>
 </TS>
