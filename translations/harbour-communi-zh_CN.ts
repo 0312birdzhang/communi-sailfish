@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Internet Relay Chat (IRC) is a protocol for live interactive Internet text messaging (chat) or synchronous conferencing. It is mainly designed for group communication in discussion forums, called channels, but also allows one-to-one communication via private messages.</source>
-        <translation>互联网中继聊天（IRC）是一种现场互动的互联网短信（聊天）或同步会议的协议。它主要为论坛的群组通信而设计，论坛被称作频道，但还允许通过私信进行一对一通信。</translation>
+        <translation>互联网中继聊天（IRC）是一种实时交流的互联网短信（聊天）或同步会议的协议。它主要为在被称作频道的论坛中进行群组通信而设计，但也允许通过私信进行一对一通信。</translation>
     </message>
     <message>
         <source>Contact</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Artwork</source>
-        <translation>美工</translation>
+        <translation>美术工作</translation>
     </message>
 </context>
 <context>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Open a query</source>
-        <translation>打开密聊</translation>
+        <translation>开始密聊</translation>
     </message>
     <message>
         <source>Connect a network</source>
@@ -467,7 +467,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 topic was set %2 by %3</source>
-        <translation>%1 的话题已被 %3 设置为 %2 </translation>
+        <translation>%1 的话题已于 %2 由 %2 设置</translation>
     </message>
     <message>
         <source>inviting %1 to %2</source>
@@ -523,7 +523,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 topic is &quot;%2&quot;</source>
-        <translation>%1 的话题是 &quot;%2&quot;</translation>
+        <translation>%1 的话题为 &quot;%2&quot;</translation>
     </message>
     <message>
         <source>%1 sets topic &quot;%2&quot; on %3</source>
@@ -559,7 +559,7 @@ highlights</source>
     </message>
     <message>
         <source>!</source>
-        <translation>！</translation>
+        <translation>!</translation>
     </message>
     <message>
         <source>[INFO]</source>
@@ -986,7 +986,7 @@ highlights</source>
     </message>
     <message>
         <source>Specifies whether joins/parts/quits are shown when the amount of user on the channel is less than:</source>
-        <translation>指定是否显示加入、离开或退出等事件，设置生效于频道中用户数量小于:</translation>
+        <translation>指定是否显示加入、离开或退出等事件，设置生效于频道中少于：</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -994,7 +994,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 users</source>
-        <translation>%1 用户</translation>
+        <translation>%1 位用户</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1006,7 +1006,7 @@ highlights</source>
     </message>
     <message>
         <source>Tiny</source>
-        <translation>微</translation>
+        <translation>最小</translation>
     </message>
     <message>
         <source>Small</source>
@@ -1026,7 +1026,7 @@ highlights</source>
     </message>
     <message>
         <source>Specifies whether a monospaced font is used for messages</source>
-        <translation>消息以等宽字体显示</translation>
+        <translation>指定消息是否以等宽字体显示</translation>
     </message>
     <message>
         <source>Notifications</source>
