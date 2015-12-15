@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Artwork</source>
-        <translation>美工</translation>
+        <translation>美术工作</translation>
     </message>
 </context>
 <context>
