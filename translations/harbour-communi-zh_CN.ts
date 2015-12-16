@@ -467,7 +467,7 @@ highlights</source>
     </message>
     <message>
         <source>%1 topic was set %2 by %3</source>
-        <translation>%1 的话题已于 %2 由 %2 设置</translation>
+        <translation>%1 的话题已于 %2 由 %3 设置</translation>
     </message>
     <message>
         <source>inviting %1 to %2</source>
